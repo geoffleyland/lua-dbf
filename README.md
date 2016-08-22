@@ -7,7 +7,7 @@ dbf format is documented [here](http://www.dbf2002.com/dbf-file-format.html)
 
 ## 2. Why?
 
-It's just a collection of geometry bits I've needed from time to time.
+Shapefiles use dbf.
 
 
 ## 3. How?
