@@ -39,4 +39,4 @@ Lua >= 5.1 or LuaJIT >= 2.0.0.
 
 ## 6. Alternatives
 
-+ Many!
++ Moteus's [gist](https://gist.github.com/moteus/33a68673cfa52eeccc6e132e55e960eb) reads and writes dbf
