@@ -22,6 +22,10 @@ then
       for k, v in pairs(l) do print(k, v) end
     end
 
+If you don't install with luarocks, then you need to make sure that
+Roberto's [struct library](http://www.inf.puc-rio.br/~roberto/struct/) is
+installed.
+
 
 ## 4. Requirements
 
