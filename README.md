@@ -18,7 +18,7 @@ then
 
     dbf = require"dbf"
     local f = dbf.open("dbf-file.dbf")
-    for l in f:lines(do)
+    for l in f:lines() do
       for k, v in pairs(l) do print(k, v) end
     end
 
